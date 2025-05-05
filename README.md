@@ -60,4 +60,4 @@ Ensure you have the following installed on your machine:
 You can find and test all API endpoints in the provided Postman collection.
 
 ### Postman Collection:
-- 
+- https://www.postman.com/nevinrashid/my-wokspace/collection/89wfxun/post-management
